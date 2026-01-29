@@ -28,9 +28,11 @@ public class Test {
         }
     }
 
+    
+
     // Main method
     public static void main(String[] args) {
-        int x = 589;
+        int x = 20;
         int y = 10;
 
         add(x, y);
